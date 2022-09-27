@@ -7,7 +7,7 @@ Projekt został przygotowany przez Zbyszka Cieślińskiego (nr indeksu 144286) i
 
 Aplikacja została napisana w języku Typescript (który transpilowany jest do JavaScript) przy użyciu biblioteki Three.js, która korzysta z WebGL do renderowania obiektów 3D w przeglądarce.
 
-# Wersja demonstracyjna aplikacji
+## Wersja demonstracyjna aplikacji
 Aplikacja została umieszczona na platformie Heroku, co umożliwia dostęp do niej z dowolnego miejsca.
 
 Link do aplikacji: [Grafika Projekt JR ZC](https://projekt-grafika-jr-zc.herokuapp.com/)
@@ -17,7 +17,7 @@ Link do aplikacji: [Grafika Projekt JR ZC](https://projekt-grafika-jr-zc.herokua
 Może się zdarzyć, że podczas próby wejścia w wyżej podany link strona będzie się długo wczytywać - wówczas należy po prostu poczekać. Może też 
 wystąpić błąd aplikacji. W takiej sytuacji należy odświeżyć stronę. Są to ograniczenia platformy i niestety nie mamy na nie wpływu.
 
-# Uruchomienie w środowisku lokalnym
+## Uruchomienie w środowisku lokalnym
 Aplikacja do działania wymaga zainstalowanego na komputerze środowiska **Node.js**. Po upewnieniu się, że jest ono zainstalowane, 
 w celu uruchomienia aplikacji lokalnie należy: 
 1. Sklonować repozytorium.
