@@ -27,3 +27,6 @@ w celu uruchomienia aplikacji lokalnie należy:
     - `npm start`
 
 Projekt zostanie zbudowany przy użyciu narzędzia _parcel_, a następnie, jeżeli wszystko się uda zostanie otwarte okno przeglądarki z działającą lokalnie aplikacją.
+
+### Tekstury
+Tekstury zostały pobrane ze strony: https://www.humus.name/index.php?page=Textures&ID=94
