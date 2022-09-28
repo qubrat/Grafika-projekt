@@ -24,7 +24,7 @@ w celu uruchomienia aplikacji lokalnie należy:
 2. Otworzyć okno terminala w lokalizacji pobranego repozytorium.
 3. Wykonać kolejno polecenia 
     - `npm install`
-    - `npm start`
+    - `npm run start`
 
 Projekt zostanie zbudowany przy użyciu narzędzia _parcel_, a następnie, jeżeli wszystko się uda zostanie otwarte okno przeglądarki z działającą lokalnie aplikacją.
 
